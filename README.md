@@ -1,4 +1,5 @@
 # Skybox to Cubemap
+![GitHub](https://img.shields.io/github/license/dbqt/SkyboxToCubemap)
 
 Simple tool to capture the environment from a camera to a cubemap texture.
 
