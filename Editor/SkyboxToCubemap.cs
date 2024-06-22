@@ -32,7 +32,6 @@ public class SkyboxToCubemapWindow : ScriptableWizard
 
         if ((cameraObj as Camera).RenderToCubemap(cubemapObj as Cubemap))
         {
-
             EditorUtility.DisplayDialog("Done", $"The environment has been captured into the cubemap.", "OK");
         }
         else
